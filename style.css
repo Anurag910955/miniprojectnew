@@ -266,6 +266,7 @@ body{
     height: 100%;
     /* background-color: red; */
     position: relative;
+    margin-top: 20px;
 }
 #page3>h1{
     text-align: center;
@@ -284,7 +285,7 @@ body{
     align-items: center;
     justify-content: space-between;
     position: relative;
-    margin-top: 15px;
+    
 }
 .ele h4{
     font-size: 1.2vw;
@@ -336,6 +337,7 @@ body{
     letter-spacing: 2px;
     border-top: 2px solid black;
     border-bottom: 2px solid black;
+    margin-bottom: 30px;
 }
 
 #marque h1 {
