@@ -284,6 +284,7 @@ body{
     align-items: center;
     justify-content: space-between;
     position: relative;
+    margin-top: 15px;
 }
 .ele h4{
     font-size: 1.2vw;
